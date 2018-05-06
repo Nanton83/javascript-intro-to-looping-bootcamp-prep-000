@@ -9,8 +9,8 @@ if(i === 1){
   return array
 ;}
 
-function whileLoop(x){
-  let countdown = 100;
+function whileLoop(n){
+  let countdown = n;
   while (countdown > 0){
     console.log(--countdown)
   ;}
