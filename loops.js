@@ -10,5 +10,6 @@ if(i === 1){
 ;}
 
 function whileLoop(x){
-  let 
+  let countdown = 100;
+  while (countdown > 0) 
 }
