@@ -9,4 +9,6 @@ if(i === 1){
   return array
 ;}
 
-function whileLoop(1)
+function whileLoop(x){
+  let 
+}
