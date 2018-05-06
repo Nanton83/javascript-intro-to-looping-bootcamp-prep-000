@@ -1,4 +1,1 @@
-for ([initialization];
-[condition]; [iteration]) {
-  [loopBody]
-}
+function forLoop(let i = 1; )
