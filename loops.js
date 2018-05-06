@@ -10,7 +10,7 @@ if(i === 1){
 ;}
 
 function whileLoop(x){
-  let countdown = 100;
+  let countdown = x;
   while (countdown > 0){
     console.log(--countdown)
   }
