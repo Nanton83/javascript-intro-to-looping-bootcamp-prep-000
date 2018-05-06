@@ -1,1 +1,1 @@
-function forLoop(let i = 1; )
+function forLoop(array)
