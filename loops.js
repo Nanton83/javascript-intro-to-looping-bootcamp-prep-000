@@ -9,4 +9,4 @@ if(i === 1){
   return array
 ;}
 
-function whileLoop
+function whileLoop(1)
