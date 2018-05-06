@@ -12,6 +12,6 @@ if(i === 1){
 function whileLoop(x){
   let countdown = 100;
   while (countdown > 0){
-    console.log(--)
+    console.log(--countdown)
   }
 }
